@@ -1,0 +1,2 @@
+setUrlTrigger(/lou/euscreen/basicvideo,/lou/domain/euscreenxl/html5application/basicvideo)
+log(basicvideo)
