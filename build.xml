@@ -146,10 +146,6 @@
 			 <exclude name="WEB-INF/web.xml" />
 			</fileset>
 		</war>
-		
-		<exec executable="/bin/bash">
-		<arg value="/springfield/tomcat/bin/noterikcopy_basicvideo.sh"/>
-		</exec>
 	</target>
 	
 </project>
